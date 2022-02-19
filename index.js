@@ -17,11 +17,11 @@ const start = () => {
             message: "What would you like to do?",
             choices: [
                 {
-                    name: "Find all employees",
+                    name: "View all employees",
                     value: "Find_employees",
                 },
                 {
-                    name: "Check all departments",
+                    name: "View all departments",
                     value: "Find_departments",
                 },
                 {
